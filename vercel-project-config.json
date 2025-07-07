@@ -1,0 +1,9 @@
+{
+  "name": "boba-stop-inventory-2025",
+  "framework": "Next.js",
+  "rootDirectory": "./",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "devCommand": "npm run dev"
+}

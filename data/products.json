@@ -1,0 +1,410 @@
+[
+  {
+    "model": "inventory.product",
+    "pk": 1,
+    "fields": {
+      "name": "Ceylon Black Tea",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.198992"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 2,
+    "fields": {
+      "name": "Brown Sugar Mix Powerder No. 1",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199117"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 3,
+    "fields": {
+      "name": "Original Coconut Jelly",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199188"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 4,
+    "fields": {
+      "name": "Mix Coconut Jelly",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199252"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 5,
+    "fields": {
+      "name": "Lychee Coconut Jelly",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199325"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 6,
+    "fields": {
+      "name": "Cane Liquid Sugar",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199398"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 7,
+    "fields": {
+      "name": "Jasmine Green Tea",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199475"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 8,
+    "fields": {
+      "name": "Honey Dew Powder",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199565"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 9,
+    "fields": {
+      "name": "Mango Powder",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199673"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 10,
+    "fields": {
+      "name": "Kesar Mango Pulp",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199778"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 11,
+    "fields": {
+      "name": "Matcha Latte Powder",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199871"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 12,
+    "fields": {
+      "name": "Cookies & Cream Powder",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.199958"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 13,
+    "fields": {
+      "name": "Strawberry Powder",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.200071"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 14,
+    "fields": {
+      "name": "Tapioca Pearls",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.200165"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 15,
+    "fields": {
+      "name": "Taro Powder",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.200270"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 16,
+    "fields": {
+      "name": "Thai Tea Mix",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.200389"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 17,
+    "fields": {
+      "name": "Bubble Tea Wrapped-Plastic Straw",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "Kingeleke",
+      "last_updated": "2025-05-31T04:38:30.200501"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 18,
+    "fields": {
+      "name": "Brown Sugar Syrup",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.200571"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 19,
+    "fields": {
+      "name": "Mango Coating Juice Ball",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.200639"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 20,
+    "fields": {
+      "name": "Mango Syrup",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.200776"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 21,
+    "fields": {
+      "name": "Passion Fruit Syrup",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201047"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 22,
+    "fields": {
+      "name": "Passion Fruit Powder",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201155"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 23,
+    "fields": {
+      "name": "Peach Syrup",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201223"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 24,
+    "fields": {
+      "name": "Coconut Powder",
+      "description": "",
+      "quantity": 4,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201287"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 25,
+    "fields": {
+      "name": "Strawberry Coating Juice Ball",
+      "description": "",
+      "quantity": 10,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201358"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 26,
+    "fields": {
+      "name": "Lychee Syrup",
+      "description": "",
+      "quantity": 5,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201425"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 27,
+    "fields": {
+      "name": "500CC PC Shaker",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201489"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 28,
+    "fields": {
+      "name": "700CC PC Shaker",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201547"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 29,
+    "fields": {
+      "name": "Tapocia Scooper",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "QualiTea",
+      "last_updated": "2025-05-31T04:38:30.201628"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 30,
+    "fields": {
+      "name": "Clear Cup 16oz",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "TAAS",
+      "last_updated": "2025-05-31T04:38:30.201707"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 31,
+    "fields": {
+      "name": "Clear Cup 120z",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "TAAS",
+      "last_updated": "2025-05-31T04:38:30.201797"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 32,
+    "fields": {
+      "name": "Flat LID for 12-24oz",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "TAAS",
+      "last_updated": "2025-05-31T04:38:30.201892"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 33,
+    "fields": {
+      "name": "Paper Coffee Cup 8oz",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "TAAS",
+      "last_updated": "2025-05-31T04:38:30.201971"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "pk": 34,
+    "fields": {
+      "name": "Dome Lid for Paper Coffee (white)",
+      "description": "",
+      "quantity": 2,
+      "restock_threshold": 2,
+      "supplier": "TAAS",
+      "last_updated": "2025-05-31T04:38:30.202035"
+    }
+  }
+]
